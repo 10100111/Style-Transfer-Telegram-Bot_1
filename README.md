@@ -1,5 +1,6 @@
 # Style-Transfer-Telegram-Bot
 **Style Transfer Telegram Bot based on GAN + AWS deploy tutorial. [ENG]**
+!!! добавить файл config1 с переменной API_TOKEN
 
 What is Style Transfer Telegram Bot?
 ------------------------------------
