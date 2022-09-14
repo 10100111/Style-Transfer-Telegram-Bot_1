@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher, executor, types
 
 from net import *  # Import architecture
 from functions import *  # Import functions
-from config import API_TOKEN
+from config1 import API_TOKEN
 
 # Set API_TOKEN. You must have your own.
 API_TOKEN = ''
