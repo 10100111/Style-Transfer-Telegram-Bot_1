@@ -8,7 +8,7 @@ from functions import *  # Import functions
 from config1 import API_TOKEN
 
 # Set API_TOKEN. You must have your own.
-API_TOKEN = ''
+# API_TOKEN = ''
 
 # Configure logging.
 logging.basicConfig(level=logging.INFO)
